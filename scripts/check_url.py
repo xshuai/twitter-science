@@ -6,7 +6,7 @@ import os
 import getopt
 
 import parse_tweet
-
+target = 'http://t.'
 root = "/home/twitterBollen/xshuai/science_social_media/twitter/"
 urls_count = {}
 
@@ -37,15 +37,14 @@ def extract_urls(tweet_file, tweet_type):
 	    continue
 
 	if not tweet.parsed_urls:
-	    print line
+	    #print line
 	    continue
 	
 	find_urls = tweet.parsed_urls.split()
-	if 'Lvxn116b' in tweet.parsed_urls:
-	    print [tweet.parsed_urls]
-	    print find_urls
-	    exit(0)
 	for url in find_urls:
+	    if url == target:
+		print 'found in:', line
+	#	exit(0)
 	    if not url.startswith("http"):
 		url = "http://" + url
 	    try:

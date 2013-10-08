@@ -2,8 +2,26 @@
 # coding: utf-8
 #############################This module is used for parsing tweet seperated by '|'#####################################
 import re
-
+import sys
+import getopt
 url_pat = re.compile('(http://\S+|https://\S+|www.\S+)',re.I)
+#####some common directory##########
+root = "/home/twitterBollen/xshuai/science_social_media/twitter/"
+tweets_dir = "/home/twitterBollen/xshuai/science_social_media/twitter/tweets/"
+dat_dir = "/home/twitterBollen/xshuai/science_social_media/twitter/dat/"
+
+def parse_args():
+    opts, args = getopt.getopt(sys.argv[1:], "t:")
+    #####defulat value#####
+    tweet_type = 'arxiv'
+    #######################
+    for o, a in opts:
+        if o == "-t":
+            tweet_type = a
+        else:
+            print 'Unknown optionts:', o
+            exit(2)
+    return tweet_type
 
 class Tweet:
     """

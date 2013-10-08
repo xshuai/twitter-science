@@ -1,18 +1,19 @@
 #!/usr/bin/python
-########################This script is used to parse url and extract doi information#####################################
+################################################################################
+################parse url and extract doi information#####################################
 import urllib2
 import re
 import socket
 
 socket.setdefaulttimeout(20)
 
-doi_pat = re.compile("doi:[^\"]+")
+doi_pat = re.compile("doi:[^\"<>]+")
 root = "/home/twitterBollen/xshuai/science_social_media/twitter/"
 url_info = {}
 write_lines = []
 
 input_file = root + 'dat/' + 'nature.com' + '/url_count1.txt'
-output_file = root + 'dat/' + 'nature.com' + '/parsed_urls2.txt'
+output_file = root + 'dat/' + 'nature.com' + '/parsed_urls1.txt'
 
 index = 0
 infile = open(input_file, 'r')
@@ -23,7 +24,7 @@ for line in infile:
     try:
         html = urllib2.urlopen(url)
 	text = html.read()
-	org_url = html.geturl()
+        org_url = html.geturl()
     except:
 	newline = url + '\terror\terror\n'
 	write_lines.append(newline)
