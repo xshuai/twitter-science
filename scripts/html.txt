@@ -1,0 +1,1735 @@
+<!DOCTYPE html>
+ <html lang="en" class="js-disabled">
+<head>
+	<meta charset="utf-8"/>
+	
+														 																								
+		
+		
+							
+		
+		
+	<title>Physicists find new particle, but is it the Higgs? : Nature News &amp; Comment</title>
+	
+		
+				
+	<meta name="description" content="LHC data confirm discovery, but not identity, of Higgs-like entity."/>
+	<meta name="keywords" content="Nature, science, science news, biology, physics, genetics, astronomy, astrophysics, quantum physics, evolution, evolutionary biology, geophysics, climate change, earth science, materials science, interdisciplinary science, science policy, medicine, systems biology, genomics, transcriptomics, palaeobiology, ecology, molecular biology, cancer, immunology, pharmacology, development, developmental biology, structural biology, biochemistry, bioinformatics, computational biology, nanotechnology, proteomics, metabolomics, biotechnology, drug discovery, environmental science, life, marine biology, medical research, neuroscience, neurobiology, functional genomics, molecular interactions, RNA, DNA, cell cycle, signal transduction, cell signalling"/>
+	
+			<meta property="og:type" content="article"/>
+		<meta property="og:site_name" content="Nature News &amp; Comment"/>
+		<meta property="og:title" content="Physicists find new particle, but is it the Higgs?"/>
+		<meta property="og:description" content="LHC data confirm discovery, but not identity, of Higgs-like entity."/>
+		<meta property="og:url" content="http://www.nature.com/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932"/>
+											<meta property="og:image" content="http://www.nature.com/polopoly_fs/7.5185.1341245858!/image/1.10932.jpg_gen/derivatives/box_118/1.10932.jpg"/>
+						<meta property="article:section" content="News"/>
+		
+					<link rel="standout" href="http://www.nature.com/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932"/>
+																		
+		
+		<meta name="HandheldFriendly" content="True"/>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.2,user-scalable=yes"/>
+		<meta name="access" content="Yes"/>
+	<meta name="WT.cg_n" content="Nature News"/>
+	<meta name="WT.cg_s" content="News"/>
+	<meta name="WT.z_cg_type" content="Nature News"/>
+
+						<meta name="citation_authors" content="Chalmers, Matthew; "/>
+				<meta name="citation_journal_title" content="Nature News"/>
+		<meta name="citation_doi" content="doi:10.1038/nature.2012.10932"/>
+		<meta name="citation_title" content="Physicists find new particle, but is it the Higgs?"/>
+										
+	
+	<!--[if IE]><![endif]-->
+	
+	<script>(function(h){h.className=h.className.replace('js-disabled','js-enabled')})(document.getElementsByTagName('html')[0])</script>
+	
+	<!--[if lt IE 9]><script>(function(e){for(var i=0;e[i];++i){document.createElement(e[i]);}})(['abbr','article','aside','audio','canvas','details','figcaption','figure','footer','header','hgroup','mark','meter','nav','output','progress','section','summary','time','video'])</script><![endif]-->
+	<!--[if IE 6]><script src="http://www.nature.com/common/scripts/ie-specific/ie-6.js"></script><![endif]-->
+		
+			<!--[if (gt IE 8)|!(IE)]><!--><link rel="stylesheet" type="text/css" media="all" href="/polopoly_static/css/nature/news/compiled/noaubwe.css"/><!--<![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/polopoly_static/css/nature/news/compiled/ie8-noaubwe.css"/><![endif]-->
+<!--[if (IE 6)|(IE 7)]><link rel="stylesheet" type="text/css" media="all" href="/polopoly_static/css/nature/news/compiled/ie-noaubwe.css"/><![endif]-->		
+	<link rel="shortcut icon" href="http://www.nature.com/favicon.ico"/>
+	<link rel="search" href="http://www.nature.com/search/executeSearch"/>
+	<link rel="search" type="application/opensearchdescription+xml" href="http://www.nature.com/opensearch/opensearch.xml"/>
+	<link rel="search" type="application/sru+xml" href="http://www.nature.com/opensearch/request"/>
+	
+	<script src="//nexus.ensighten.com/npg/Bootstrap.js"></script>
+</head>
+<!--[if lt IE 6]><body class="lt-ie6"><![endif]-->
+<!--[if IE 6]><body class="ie6"><![endif]-->
+<!--[if IE 7]><body class="ie7"><![endif]-->
+<!--[if IE 8]><body class="ie8"><![endif]-->
+<!--[if gt IE 8]><body class="gt-ie8"><![endif]-->
+<!--[if !IE]>--><body><!--<![endif]-->
+	
+	<div id="constrain">
+					<div id="foreword" class="cleared" role="banner">
+	<nav>
+		<h2 class="home" id="top"><a href="/">nature.com</a></h2>
+		<ul>
+			<li class="sitemap"><a href="/siteindex">Sitemap</a></li>	
+							<li class="register"><a href="/register">Register</a></li>
+				<li class="login"><a href="/foxtrot/svc/login">Login</a></li>
+					</ul>
+	</nav>
+</div>	
+									<div id="leaderboard" class="cleared single-ad">
+					
+        
+	
+									
+
+
+
+	
+
+
+<div class="ad ad-728x90 ad-1" data-ad-src="//ad.doubleclick.net/adj/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;dcopt=ist;ptile=1;sz=728x90;pos=top;ord=9097915418236262?">
+	<noscript><a href="//ad.doubleclick.net/jump/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;dcopt=ist;ptile=1;sz=728x90;pos=top;ord=9097915418236262?"><img src="//ad.doubleclick.net/ad/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;dcopt=ist;ptile=1;sz=728x90;pos=top;ord=9097915418236262?" alt="Advertisment"/></a></noscript>
+</div>
+			
+      				</div>
+							
+		<div id="main">
+			<div id="constrain-header" class="cleared">
+				
+        
+	
+									
+<header>
+	<div id="header">
+		<hgroup>
+			<h2><a href="/nature" class="hide-text">Nature</a></h2>
+			<h3>International weekly journal of science</h3>
+		</hgroup>
+	
+					
+
+<form method="get" action="/search/executeSearch" id="header-search" class="search-form" role="search">
+	<fieldset>
+		<label for="header-keyword">Search</label>
+		<input type="hidden" name="include-collections" value="journals_nature,crawled_content">
+		<input type="hidden" name="exclude-collections" value="journals_palgrave,lab_animal">
+		<input type="hidden" name="sp-c" value="25">
+		<input type="hidden" name="sp-s" value="date_descending">
+		<input type="hidden" name="sp-q-1" value="NATURE,NEWS,NNEWSB">		<input type="search" id="header-keyword" name="sp-q" placeholder="Search" value="" class="txt" maxlength="200">
+		<button type="submit" id="header-search-submit">Go</button>
+
+		<a href="/search/adv_search?sp-q-1=nature,news,nnewsb">Advanced search</a>	</fieldset>
+</form>				
+																						<nav>
+			<ul id="main-nav" class="cleared">
+				<li class="nav-home first"><a href="/nature/index.html"><span>Home</span></a></li>
+				<li class="nav-news active"><a href="http://www.nature.com/news/nature-news-comment-2.788"><span>News &amp; Comment</span></a></li>
+				<li class="nav-research"><a href="/nature/research/research_by_type.html"><span>Research</span></a></li>
+				<li class="nav-careers"><a href="/nature/careers/index.html"><span>Careers &amp; Jobs</span></a></li>
+				<li class="nav-current"><a href="/nature/current_issue.html"><span>Current Issue</span></a></li>
+				<li class="nav-archive"><a href="/nature/archive/index.html"><span>Archive</span></a></li>
+				<li class="nav-av"><a href="/nature/audio_video/index.html"><span>Audio &amp; Video</span></a></li>
+				<li class="nav-authors"><a href="/nature/authors/index.html"><span>For Authors</span></a></li>
+			</ul>
+		</nav>
+	</div>
+	
+			
+			
+						
+				
+													
+									
+									
+			
+												
+											
+				<div id="breadcrumbs">
+			<nav>
+				<ul id="sub-nav" class="cleared">
+																																														<li class="first parent parent-1"><a href="http://www.nature.com/news/nature-news-comment-2.788">News &amp; Comment</a></li>
+																																									<li class="parent parent-2"><a href="/nature/archive/category.html?code=archive_news">News</a></li>
+																																									<li class="parent parent-3"><a href="/nature/archive/category.html?code=archive_news&amp;year=2012">2012</a></li>
+																																									<li class="parent parent-4"><a href="/nature/archive/category.html?code=archive_news&amp;year=2012&amp;month=09">September</a></li>
+																																														<li class="last current"><span>Article</span></li>
+								</ul>
+			</nav>
+		</div>
+		
+</header>											<div id="marketing-banner-placeholder"></div>
+<style type="text/css">.minimised p,.minimised p.action{display:none}.global-message p.message-control{display:block}.global-message{background:#fbf9d3 url(/common/images/survey/main_bg.gif) no-repeat 100% 100%;padding:3px 10px;margin:6px 0;border:1px solid #aeaeae;position:relative;overflow:hidden}.minimised{background-image:url(/common/images/survey/minimised_bg.gif);background-position:95% 50%}.global-message h1,.global-message p{margin:0}.global-message p.action{background:url(/common/images/survey/button_large.gif) no-repeat;font-size:153.9%;width:180px;height:39px;margin:5px auto 0;padding:8px 0 8px 42px}.message-control{position:absolute;right:0;bottom:0}.ie6 .message-control{top:0;bottom:auto}.message-arrows{background:transparent url(/common/images/survey/arrow_triple.gif) no-repeat 0 50%;padding:3px 0 4px 17px}.message-control a{background-color:#fff;background-position:8px 50%;padding-left:25px;display:block;font-weight:bold;border-left:1px solid #aeaeae;border-top:1px solid #aeaeae;width:15em}.message-control a.remove{margin:0 0 0 10px;padding:4px 5px 0;position:absolute;right:0;top:0;width:20px}.ie6 .message-control a{border-top:0 none;border-bottom:1px solid #aeaeae}.ie6 .message-control a.remove{padding:5px}</style>
+
+<script type="text/x-html-template" id="marketing-banner">
+<div class="global-message minimised">
+	<section>
+		<div class="content">
+			<h1><a href="http://www.onlinemediaawards.net/nominations" class="message-arrows">Commendations for <i>Nature</i> News &amp; Comment in the 2012 Online Media Awards</a></h1>
+			<p><i>Nature'</i>s news &amp; comment section was commended in the Best Specialist Site for Journalism and Best <a href="https://twitter.com/naturenews">Twitter feed</a> categories. Chief online editor Ananyo Bhattacharya was a finalist in the Online Editor of the Year category.</p>
+						<p class="message-control"><a href="javascript:;" class="persistent message-arrows">Find out more</a> <a href="javascript:;" class="remove"><img src="/view/images/message_close.gif" alt="Remove this message"/></a></p>		</div>
+	</section>
+</div>
+</script>
+<script>
+(function(){
+	var init = function($, cookie) {
+		var display = cookie.get('message')!=='remove',
+			expanded = cookie.get('minimised')==='false',
+			placeholder = null,
+			box = null,
+			collapsedHeight = 0,
+			collapsedPadding = {},
+			ANIMATION_DURATION = 300,
+			expand = function(box, link, opts) {
+				var targetHeight = 0,
+					padding = {
+						paddingTop: 10,
+						paddingBottom: 10
+					};
+				box.removeClass('minimised');
+				box.css({height: 'auto'});
+				if (opts.animate) {
+					targetHeight = box.height();
+					box.css({height: collapsedHeight});
+					box.animate($.extend(padding, {height: targetHeight}), ANIMATION_DURATION);
+				}else{
+					box.css(padding);
+				}
+				link.text('Minimise this message');
+			},
+			collapse = function(box, link, opts) {
+				var props = $.extend(collapsedPadding, {height: collapsedHeight});
+				if (opts.animate) {
+					box.animate(props, ANIMATION_DURATION, function() {
+						box.addClass('minimised');
+					});
+				} else {
+					box.css(props);
+				}
+				link.text('Find out more');
+			};
+		if (display) {
+			placeholder = $('#marketing-banner-placeholder');
+			placeholder.html($('#marketing-banner').html());
+			box = placeholder.find('div.global-message');
+			collapsedHeight = box.height();
+			collapsedPadding = {
+				paddingTop: box.css('paddingTop'),
+				paddingBottom: box.css('paddingBottom')
+			};
+			if (expanded) {
+				expand(box, box.find('a.persistent'), {
+					animate: false
+				});
+			}
+			placeholder.click(function(e) {
+				var target = $(e.target).closest('a');
+				if (target.length) {
+					if (target.hasClass('persistent')) {
+						if (box.hasClass('minimised')) {
+							expand(box, target, {
+								animate: true
+							});
+							cookie.set('minimised', 'false', 10, '/');
+						} else {
+							collapse(box, target, {
+								animate: true
+							});
+							cookie.remove('minimised','/');
+						}
+					} else if (target.hasClass('remove')) {
+						cookie.set('message', 'remove', null, '/');
+						placeholder.unbind('click');
+						placeholder.remove();
+					}
+				}
+			});
+		}
+	};
+	setTimeout(function(){
+		if (typeof jQuery === 'undefined' || typeof window.nature === 'undefined' || typeof window.nature.Cookie === 'undefined') {
+			setTimeout(arguments.callee, 100);
+		} else {
+			init(jQuery, window.nature.Cookie);
+		}
+	},100);
+})();</script>
+			
+      			</div>
+			
+									
+			<div id="constrain-content" class="cleared" role="main">
+				<div id="content" class="col">
+																														
+											
+
+<script>
+window.nature = window.nature || {};
+window.nature.showRelatedLinksPosition = 5;
+</script>
+<article>
+	<div id="article">
+		
+				
+																																	
+												
+																				
+																
+				
+	<header>
+		<hgroup>
+			<h2 class="type-heading"><span class="journal-title">Nature</span><span class="divider"> | </span><span class="type">News</span></h2>
+			<h1 class="article-heading">Physicists find new particle, but is it the Higgs?</h1>		</hgroup>
+		
+					<div class="standfirst">
+				<p>LHC data confirm discovery, but not identity, of Higgs-like entity.</p>
+			</div>
+			
+		
+
+	    	    	    	
+    	    				    				    				    				    				    						
+		
+	
+
+
+	<ul class="authors cleared">
+					<li>	
+	
+	
+											<span class="vcard"><a href="#auth-1" class="fn">Matthew Chalmers</a></span></li>
+			</ul>
+	
+						<div class="pubdate-and-corrections"><time datetime="2012-07-02" pubdate>02 July 2012</time> <span class="corrected-online">Corrected:</span> <ol class="correction-links"><li><a href="#correction1"><time datetime="2012-07-03"><span class="time">03 July 2012</span></time></a></li></ol> <span class="corrected-online">Updated:</span> <ol class="correction-links"><li><a href="#correction2"><time datetime="2012-07-04"><span class="time">04 July 2012</span></time></a></li></ol></div>
+				
+			</header>
+			
+	<section>
+		<div class="section">
+			<div class="content no-heading cleared main-content">
+    
+																										
+									
+																		
+
+
+
+
+
+		
+
+
+				
+
+
+
+
+	<div class="img img-right" style="width:302px"> 		<div class="img-content" style="padding:1px">
+		<img src="/polopoly_fs/7.5185.1341245858!/image/1.10932.jpg_gen/derivatives/landscape_300/1.10932.jpg" alt="ATLAS"/>		<p class="caption">The ATLAS detector (above) and its rival CMS have both seen a clear signal of a new, Higgs-like particle.</p>		<p class="credit">Claudia Marcelloni/CERN</p>		</div>
+	</div>
+
+																										
+
+<div class="article-tools">
+	<aside>
+		<h2 class="hidden">Article tools</h2>
+
+		<ul class="box">
+						<li class="print"><a href="javascript:window.print()">Print</a></li>
+			<li class="email"><a href="/news/foxtrot/svc/mailform?doi=10.1038/nature.2012.10932&amp;file=/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932">Email</a></li>
+						<li class="rights"><a href="https://s100.copyright.com/AppDispatchServlet?author=Matthew+Chalmers&amp;title=Physicists+find+new+particle%2C+but+is+it+the+Higgs%3F&amp;publisherName=NPG&amp;contentID=10.1038%2Fnature.2012.10932&amp;publicationDate=07%2F02%2F2012&amp;publication=Nature+News">Rights &amp; Permissions</a></li>
+			<li>
+				<h3 id="toggle-share">Share/bookmark</h3>
+				<div id="share-links">
+					<ul class="share">
+						<li class="connotea"><a href="http://www.connotea.org/add?uri=doi:10.1038/nature.2012.10932">Connotea</a></li>
+						<li class="facebook"><a href="http://www.facebook.com/share.php?u=http://www.nature.com/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932">Facebook</a></li>
+						<li class="delicious"><a href="http://del.icio.us/post?url=http://www.nature.com/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932&amp;title=Physicists+find+new+particle%2C+but+is+it+the+Higgs%3F">Delicious</a></li>
+						<li class="twitter"><a href="http://twitter.com/home/?status=Physicists+find+new+particle%2C+but+is+it+the+Higgs%3F+http://www.nature.com/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932">Twitter</a></li>
+						<li class="digg"><a href="http://digg.com/submit?phase=2&amp;url=http://www.nature.com/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932&amp;title=Physicists+find+new+particle%2C+but+is+it+the+Higgs%3F">Digg</a></li>
+						<li class="friendfeed"><a href="http://friendfeed.com/?url=http://www.nature.com/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932&amp;title=Physicists+find+new+particle%2C+but+is+it+the+Higgs%3F">Friendfeed</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+	</aside>
+</div>					
+											<p>Physicists in Europe will present evidence of an entirely new particle on Wednesday, <i>Nature</i> has learned. But more data will be needed to officially confirm whether it is indeed the long-awaited Higgs boson — the particle thought to be behind the mass of all the others.</p>														
+											<p>Even as rumours fly in the popular media, physicists have begun quietly cheering at CERN, the European particle-physics lab near Geneva in Switzerland. “Without a doubt, we have a discovery,” says one member of the team working on the ATLAS experiment, who wished to remain anonymous. “It is pure elation!”</p>														
+											<p>For nearly half a century, physicists have predicted the existence of a particle that helps to endow others with mass. Named after theoretical physicist Peter Higgs, the boson is the upshot of a mathematical trick that unites the electromagnetic and weak nuclear forces into a single ‘electroweak’ interaction. It is considered the final, crucial piece of the standard model of particle physics.</p>														
+											<p>Physicists working on ATLAS saw hints of a Higgs particle last year (see: <a href="http://www.nature.com/news/detectors-home-in-on-higgs-boson-1.9632">'Detectors home in on Higgs boson'</a>), but the first solid results from the full 2012 data set arrived last week. The signal was seen in the decay of a Higgs-like particle into two high-energy photons — one of the cleanest ways to glimpse a Higgs among the hundreds of trillions proton–proton collisions recorded in the Large Hadron Collider (LHC). The data contained “a significant excess" of collision events at a mass of around 125 gigaelectronvolts, the ATLAS researcher told <i>Nature</i>, which is the same value suggested by last year's data. The same signal is present in other Higgs decay channels, too, such as those in which the new Higgs-like particle decays into four leptons.</p>														
+											<p>ATLAS's chief rival, the CMS experiment, also sees significant Higgs evidence in its 2012 data, according to a physicist there, who asked not to be named because both ATLAS and CMS have strict embargoes in place. “In practice you would have to be monstrously sceptical not to be convinced by what we have now,” the source says. "But the final decisions on what to say on Wednesday are still being made."</p>														
+											<h2>Weighing in</h2>														
+											<p>Physicists have maintained that they will not announce the discovery of the Higgs until the signal surpasses 5 sigma, meaning that it has just a 0.00003% probability that the result is due to chance. The ATLAS and CMS experiments are each seeing signals between 4.5 and 5 sigma, just a whisker away from a solid discovery claim. The results are also consistent with an analysis from the mothballed Tevatron collider, which was presented today at Fermilab in Batavia, Illinois.</p>														
+											<p>CERN's head of communications, James Gillies, confirmed that four of the theorists who dreamt up the Higgs mechanism in the 1960s — François Englert, Carl Hagen, Peter Higgs and Gerald Guralnik — will be present at Wednesday's seminar, but he declined to be drawn on what will be announced. "Things are still evolving here," he says. "Until the spokespersons of the ATLAS and CMS collaborations stand up in front of the audience, it's premature to speculate."</p>														
+											<p>Physicists will now turn their attention to understanding the new particle. Crucially, they will want to know whether it behaves like a mass-giving Higgs, and more specifically whether it behaves like the Higgs predicted in the standard model. One important task will be to carefully measure the different ways that the particle is produced and decays inside the LHC detectors. The rates could be altered by the existence of exotic new particles not predicted by the standard model that would interfere with the underlying quantum mechanical behaviour.</p>														
+											<p>“Fine, there is something there — a resonance," says Martinus Veltman, emeritus professor at the University of Michigan in Ann Arbor, who shared the 1999 Nobel Prize in Physics for his work on the standard model. “Now we have to find out if it has all the properties that the Higgs is supposed to have.”</p>												
+			</div>
+			
+			<dl class="citation">
+				<dt>Journal name:</dt>
+				<dd class="journal-title">Nature</dd>
+																				<dt>DOI:</dt>
+				<dd class="doi"><abbr title="Digital Object Identifier">doi</abbr>:10.1038/nature.2012.10932</dd>
+							</dl>
+			
+					</div>
+	</section>
+	
+		<section>
+		<div id="corrections" class="section expanded">
+			<h1 class="section-heading toggle">Corrections &amp; Updates</h1>
+			<div class="content">
+				<ins>
+					<dl class="corrections">
+																											<dt id="correction1">Corrected:</dt>
+							<dd><p>The standard deviation value of 5 sigma was incorrectly equated with a 0.00006% probability that a result is due to chance. In fact, in the context of the Higgs hunt, it is equivalent to 0.00003%. Thanks to David Spiegelhalter for <a href="http://understandinguncertainty.org/higgs-it-one-sided-or-two-sided">pointing this out</a>.</p>
+</dd>
+																											<dt id="correction2">Updated:</dt>
+							<dd><p>You can read more about the official announcement of the results in '<a href="http://www.nature.com/news/physicists-declare-victory-in-higgs-hunt-1.10940">Physicists declare victory in Higgs hunt</a>'.</p>
+</dd>
+											</dl>
+				</ins>
+			</div>
+		</div>
+	</section>
+		
+		
+																																																																																																																					<section>
+			<div id="related-links" class="section expanded">
+				<h1 class="section-heading toggle">Related stories and links</h1>
+
+				<div class="content">
+									<h2>From nature.com</h2>
+					<ul class="related-links"><li><article><h1><a href="/doifinder/10.1038/485455a">Particle physics: A reminder of the beauty we know</a></h1><p><time datetime="2012-05-23" pubdate><span class="time">23 May 2012</span></time></p></article></li><li><article><h1><a href="/doifinder/10.1038/485156a">LHC prepares for data pile-up</a></h1><p><time datetime="2012-05-04" pubdate><span class="time">04 May 2012</span></time></p></article></li><li><article><h1><a href="/doifinder/10.1038/nature.2012.9992">Higgs signal gains strength</a></h1><p><time datetime="2012-02-07" pubdate><span class="time">07 February 2012</span></time></p></article></li><li><article><h1><a href="/doifinder/10.1038/480301a">Detectors home in on Higgs boson</a></h1><p><time datetime="2011-12-13" pubdate><span class="time">13 December 2011</span></time></p></article></li></ul>
+													<h2>From elsewhere</h2>
+					<ul class="related-links related-links-external"><li><article><h1><a href="http://public.web.cern.ch/public/">CERN</a></h1></article></li><li><article><h1><a href="http://cms.web.cern.ch/">CMS detector</a></h1></article></li><li><article><h1><a href="http://atlas.ch/">ATLAS detector</a></h1></article></li></ul>
+								</div>
+			</div>
+		</section>
+		
+		
+	<div class="author-details-below">
+		
+
+	
+			
+	<section>
+		<div id="author-information" class="hidden">
+			<h1>Author information</h1>
+			<div class="content">
+												
+								
+								
+								<div class="author-details">
+					<h2>Author details</h2>
+					<ul>
+													<li id="auth-1">
+																<h3>Matthew Chalmers</h3>
+								
+																																<div class="author-search">
+									<h4>Search for this author in</h4>
+									<ul>
+										<li class="first"><a href="/search/executeSearch?sp-q=%22Matthew+Chalmers%22&amp;sp-p=all&amp;pag-start=1&amp;sp-c=25&amp;sp-m=1&amp;sp-s=date_descending&amp;siteCode=nature&amp;sp-date-range=0&amp;sp-advanced=true&amp;sp-q-9%5BAM%5D=1&amp;sp-q-9%5BAPP_NOTES%5D=1&amp;sp-q-9%5BAVIANFLU%5D=1&amp;sp-q-9%5BCLIMATE%5D=1&amp;sp-q-9%5BNATURE%5D=1&amp;sp-q-9%5BNATUREJOBS%5D=1&amp;sp-q-9%5BNBT%5D=1&amp;sp-q-9%5BNCB%5D=1&amp;sp-q-9%5BNCHEM%5D=1&amp;sp-q-9%5BNCHEMBIO%5D=1&amp;sp-q-9%5BNCHINA%5D=1&amp;sp-q-9%5BNCLIMATE%5D=1&amp;sp-q-9%5BNCOMMS%5D=1&amp;sp-q-9%5BNEURO%5D=1&amp;sp-q-9%5BNG%5D=1&amp;sp-q-9%5BNGEO%5D=1&amp;sp-q-9%5BNI%5D=1&amp;sp-q-9%5BNINDIA%5D=1&amp;sp-q-9%5BNM%5D=1&amp;sp-q-9%5BNMAT%5D=1&amp;sp-q-9%5BNMETH%5D=1&amp;sp-q-9%5BNMIDDLEEAST%5D=1&amp;sp-q-9%5BNNANO%5D=1&amp;sp-q-9%5BNPHOTON%5D=1&amp;sp-q-9%5BNPHYS%5D=1&amp;sp-q-9%5BNPROT%5D=1&amp;sp-q-9%5BNSMB%5D=1&amp;sp-q-9%5BSCIENTIFICAMERICAN%5D=1&amp;sp-q-9%5BSCIENTIFICAMERICANMIND%5D=1&amp;sp-q-9%5BSREP%5D=1&amp;sp-q-9%5BSTEMCELLS%5D=1&amp;sp-q-9%5BBLOGS%5D=1">NPG journals</a></li>
+										<li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Matthew+Chalmers%5Bauthor%5D">PubMed</a></li>
+										<li><a href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Matthew+Chalmers&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en">Google Scholar</a></li>
+									</ul>
+								</div>
+							</li>
+											</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	</div>
+
+		
+					
+
+
+<section>
+	<div id="comments" class="section expanded">
+		<h1 class="section-heading toggle">Comments</h1>
+		<div class="content">
+
+				
+				
+				
+				
+				
+		
+				
+									<ol class="comments ugc">
+									<li class="box" id="comment-45659">
+						<article>
+															<p class="datetime"><time datetime="2012-07-02T06:17+00:00">2012-07-02 06:17 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45659" class="report">Report this comment</a> | <a href="#comment-45659" class="comment-id">#45659</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Robert L. Oldershaw</span></cite> said:</dt>
+								<dd><p>The "Standard Model" of particle physics [SU&#040;2&#041; gauge thery] originally predicted that particles have zero mass, which is clearly falsified by observation.</p><p>So theoretical particle physicists tacked on the ad hoc "Higgs Mechanism" that involves a somewhat bizarre spontaneous symmetry-breaking that makes the particles have mass. It also involves introducing a new field and particle&#040;s&#041;. The putative Higgs is supposed to be a spin=0 scalar particle. All of this is a bit weird and forced in my opinion.</p><p>So the question is: Do we have a Ptolemaic situation wherein the "mechanism" can roughly reproduce the observed phenomena, but has nothing to do with how nature actually works?</p><p>Robert L. Oldershaw<br/>http://www3.amherst.edu/~rloldershaw <br/>Discrete Scale Relativity</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45662">
+						<article>
+															<p class="datetime"><time datetime="2012-07-02T10:43+00:00">2012-07-02 10:43 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45662" class="report">Report this comment</a> | <a href="#comment-45662" class="comment-id">#45662</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Jon Thaler</span></cite> said:</dt>
+								<dd><p>Oldershaw is entitled to his opinion, but spontaneous symmetry breaking is neither bizarre, weird, nor forced.  It explains, for example, superconductivity.</p><p>It is true that much of the dynamics of the Higgs mechanism is unknown.  If we knew all the answers, there wouldn&#039;t be much reason to do research.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45671">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T02:41+00:00">2012-07-03 02:41 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45671" class="report">Report this comment</a> | <a href="#comment-45671" class="comment-id">#45671</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Vinod Sehgal</span></cite> said:</dt>
+								<dd><p>Vinod Sehgal writes</p><p>"The signal was seen in the decay of a Higgs-like particle into two high-energy photons â&#x80;&#x94; one of the cleanest ways to glimpse a Higgs among the hundreds of trillions protonâ&#x80;&#x93;proton collisions recorded in the Large Hadron "</p><p>"The same signal is present in other Higgs decay channels, too, such as those in which the new Higgs-like particle decays into four leptons"</p><p>Does   Higg&#039;s like particle decay into 4 leptons or 2 high energy photons? Do these decays pertain to different  experiments? Is the energy of 2 photons equivalent to 4 leptons. Article does not mentions anything about these observations</p><p>If Higg&#039;ss boson is responsible for endowing mass to the entire matter of universe,, why its presence is so rare &#8212; detection of one signal amongst trillion of proton-proton collisions.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45673">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T03:06+00:00">2012-07-03 03:06 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45673" class="report">Report this comment</a> | <a href="#comment-45673" class="comment-id">#45673</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">James Dwyer</span></cite> said:</dt>
+								<dd><p>In the article&#039;s concluding paragraph, Martinus Veltman put the current results into their proper perspective:<br/><em>â&#x80;&#x9c;Now we have to find out if it has all the properties that the Higgs is supposed to have.â&#x80;&#x9d;</em></p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45684">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T05:09+00:00">2012-07-03 05:09 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45684" class="report">Report this comment</a> | <a href="#comment-45684" class="comment-id">#45684</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Colin Megson</span></cite> said:</dt>
+								<dd><p>Strange that the biggest problem facing humanity, namely the provision of a clean, safe and inexhaustible supply of energy to every individual on the planet, does not merit the efforts of 6000 scientists. Does the discovery of the Higgs&#039; Boson get us any nearer a solution before the cost and scarcity of hydrocarbons creates worldwide instability or worse? I don&#039;t think so. But a few hundred million Â£s of Government investment could get LFTRs underway!</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45708">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T10:15+00:00">2012-07-03 10:15 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45708" class="report">Report this comment</a> | <a href="#comment-45708" class="comment-id">#45708</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Robert L. Oldershaw</span></cite> said:</dt>
+								<dd><p>It seems to me that theoretical particle physics is more religion than science.</p><p>If theories can avoid any predictions whatsoever &#040;e.g., string/brane theory&#041;, or if theories can arbitrarily "adjust" their erstaz "predictions" &#040;e.g., the standard model, especialy QCD; superymmetry; "WIMP"  dark matter; etc.&#041;, then you do not have testable science.  You have pseudoscience.</p><p>Albert Einstein showed many times how theories of principle can make  definitive predictions that are prior, feasible, quantitative, non-adjustable and unique to the theory being tested.  General Relativity is the archetypal example.  That is what science aspires to, not fudged "model-building" which can only be viewed as temporary constructs that beg to be replaced by theories of principle.</p><p>We need to be less credulous. We need demand theories of princilpe that can make and pass definitive predictions.</p><p>Robert L. Oldershaw<br/>http://www3.amherst.edu/~rloldershaw<br/>Fractal Cosmology<br/>Discrete Scale Relativity</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45718">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T12:08+00:00">2012-07-03 12:08 PM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45718" class="report">Report this comment</a> | <a href="#comment-45718" class="comment-id">#45718</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Juan Klopper</span></cite> said:</dt>
+								<dd><p>Dear Colin Megson, allow me a short rebuttal.   A quick read of your posts on LFTRs  and its noble cause not withstanding, criticising the LHC and its scientists makes you seem a bit misinformed.  If the real scientists around here would allow me to defend them, let me explain that although I do not belong to a program that feeds hungry children, my day-job involves both trauma and cancer surgery.  Sufficient I think to qualify me to respond to your comments.  As such I spend considerable time every week in the Cape Flats, not only one of the most notorious ganglands in the world, but also a community struggling with poor governmental healthcare support.  On behalf of my patients, a big thank you to all the scientists at the LHC.  Only through endeavours such as theirs do I have the equipment to save the gunshot victims that I do, to have the accelerator therapy treatment for the advanced tumours that I see.  I can just shake my head at people with your point of view.  So come-on. This is a momentous occasion.  A celebration of both the human mind and spirit.<br/>Juan.<br/>Specialist Trauma and Emergency Care Surgeon for the last 10 years &#040;read, struggling to get the time to finish my physics degree&#041;<br/>South Africa</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45721">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T12:49+00:00">2012-07-03 12:49 PM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45721" class="report">Report this comment</a> | <a href="#comment-45721" class="comment-id">#45721</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Tito Vecchi</span></cite> said:</dt>
+								<dd>It is curious that the Higgs hid to the last, only to be finally cornered at the uneasy junction of two radically different measurement procedures. The perfect den for a measurement artifact.</dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45730">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T07:26+00:00">2012-07-03 07:26 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45730" class="report">Report this comment</a> | <a href="#comment-45730" class="comment-id">#45730</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Blythe Brown</span></cite> said:</dt>
+								<dd><p>I second Juan Klopper&#039;s comment: even a rushed perusal of the history of science shows the profound, history-altering power of physics. Yes, their work doesn&#039;t feed the starving children of today. But their work will, absolutely, increase human welfare in the long-term.* Productive physicists are heroes &#8211; people who work hard for relatively poor pay to change the world for the better. Modern life would be &#8211; and this is not an exaggeration &#8211; impossible without physics. If you want to make a lot of money, be a lawyer or some other guild-protected professional. If you want to be a god among men &#040;if unheralded&#041;, then be a competent physicist working on the fundamental research. </p><p>"What is this useful for?" asks the layman of the physicist. "Ask me again in fifty years" says the physicist. &#040;Granted, much physics finds use nearly immediately. However, history-altering fundamental research can require more time to find practical application. Paradoxically, such research, in spite of the time for diffusion, is of far greater value &#040;with caveats&#041; than the applied sort.&#041; </p><p>*The usual atomic bomb arguments notwithstanding &#8211; the world is actually far better off &#040;partly through luck&#041; for the existence of the atom bomb &#8211; no great powers have warred with one another &#040;except by proxy&#041; for 70 years. This is historically unheard of.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45732">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T08:35+00:00">2012-07-03 08:35 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45732" class="report">Report this comment</a> | <a href="#comment-45732" class="comment-id">#45732</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Robert L. Oldershaw</span></cite> said:</dt>
+								<dd><p>1. It appears that the di-photon decay channel rate is at least a factor of 2 higher than "Standard Model" predictions.</p><p>2. It also appears that the WW decay channel is virtually missing in the LHC data, which should not be the case at all!</p><p>3. The combination of 1 and 2 was definitely not anticipated</p><p>Are new epicycles going to be required to get the "right" answer?</p><p>Do theoretical particle physicists want the "Higgs Mechanism" so badly that they have lost scientific objectivity?</p><p>Sorry for asking inconvenient questions, but someone must and few seem inclined to do so.</p><p>Robert L. Oldershaw<br/>Discrete Scale Relativity<br/>http://www3.amherst.edu/~rloldershaw <br/>Fractal Cosmology</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45733">
+						<article>
+															<p class="datetime"><time datetime="2012-07-03T10:53+00:00">2012-07-03 10:53 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45733" class="report">Report this comment</a> | <a href="#comment-45733" class="comment-id">#45733</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Ed Morgan</span></cite> said:</dt>
+								<dd><p>This is just an innocent question from somebody without the mathematical chops to engage in particle physics, and only a rudimentary understanding of the theory, but have enough math to have run accross some numbers that bother me. My question is: how in the devil are there supposed to be enough Higgs Bosons around to cause mass? According to what I read today, the CERN experiments show the Higgs Bosun has a half-life of 3 trillonths of a second, or something close to that. On the other hand, the production of Higgs Bosuns requires energies and events that don&#039;t seem to me to be obtainable at any significant level in most places where mass is observed. I don&#039;t see how in the devil there are enough Higgs Bosuns around in most of the universe to do anything &#8211; they should in most locations in the universe be depleted to impotent nothingness by decay, without a means of formation or transport to that location. So what are the theorists saying, that the God Particle takes after its namesake and has the option of immortality when it wants to &#040;only when we are not looking&#041;? Or is there something that I am missing in my thought process or math, and what, in concise terms, is it that I am missing?</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45734">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T02:36+00:00">2012-07-04 02:36 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45734" class="report">Report this comment</a> | <a href="#comment-45734" class="comment-id">#45734</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Jamal Johnson</span></cite> said:</dt>
+								<dd><p>I have no idea what Higgs is or how it relates to atoms but I do feel pretty excited about this discovery. Sounds like something big is going to come up--or if Vladimir is right, nothing is gonna come up.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45737">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T02:46+00:00">2012-07-04 02:46 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45737" class="report">Report this comment</a> | <a href="#comment-45737" class="comment-id">#45737</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Chuck Finley</span></cite> said:</dt>
+								<dd><p>So you&#039;re telling me that we can discover the &#039;God particle&#039; but we can&#039;t prevent a &#039;technical glitch&#039; on a website that posts a video prematurely?  Just saying...</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45748">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T05:09+00:00">2012-07-04 05:09 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45748" class="report">Report this comment</a> | <a href="#comment-45748" class="comment-id">#45748</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Ozgur A</span></cite> said:</dt>
+								<dd><p>All I know about Higgs is that it is supposed to exist to give matter its mass.  You should check out this short explanation: http://www.youtube.com/watch?v=QG8g5JW64BA</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45749">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T05:26+00:00">2012-07-04 05:26 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45749" class="report">Report this comment</a> | <a href="#comment-45749" class="comment-id">#45749</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Henry Gee</span></cite> said:</dt>
+								<dd><p>One is so moved that one has perforce to resort to verse.</p><p>&#039;The Boson&#039;<br/>&#040;with apologies to Hilaire Belloc.&#041;</p><p>The Boson is so very small<br/>You cannot make it out at all,<br/>Though physicists have money on<br/>Its presence in the Tevatron.<br/>Notwithstanding the concern<br/>Of colleagues beavering at CERN<br/>All hoping that it might emerge<br/>Triumphant from a mighty splurge<br/>Of hadrons which, when they collide<br/>Reveal their secrets, locked inside.<br/>Why all this fuss, I say? Alas!<br/>Without it we can have no mass.<br/>No Higgs, and we&#039;d be thistledown<br/>Floating high above the ground.<br/>The ground itself would fly away<br/>And nothing much would deign to stay<br/>Attracted to its bounden mate.<br/>We&#039;d be in such a sorry state!<br/>But hold! One cannot be so free.<br/>There is still much uncertainty.<br/>For science tells us we must wait<br/>for sigmas to accumulate.<br/>Oh! let us never, never doubt<br/>What nobody is sure about!</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45751">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T05:27+00:00">2012-07-04 05:27 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45751" class="report">Report this comment</a> | <a href="#comment-45751" class="comment-id">#45751</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Indraneel Sen</span></cite> said:</dt>
+								<dd><p>For Ed Morgan: A neutron outside the atomic nucleus has a half life of around 10 minutes. Similarly the half life is that of a free Higgs particle. The theoretical particle must be stable in association with matter. </p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45752">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T05:27+00:00">2012-07-04 05:27 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45752" class="report">Report this comment</a> | <a href="#comment-45752" class="comment-id">#45752</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Alejandro Rivas-Micoud</span></cite> said:</dt>
+								<dd><p>The problem with the standard model is it fails to explain both gravity and the other forces together, or to connect relativity with quantum physics.</p><p>Let us assume that space is simply an expanded un-resolved probability field. And that time is what happens when probability waves collapse into particles in a particular space segment.</p><p>In that case, entropy becomes the random collapse of probability outcomes throughout space.</p><p>These collapses occur in the present, and produce matter &#040;the past, collapsed space-probability outcomes&#041; and energy. The future is simply un-collapsed space-probability outcomes.</p><p>Matter &#040;the past&#041; imbued with energy as a result of the the collapse of its probability field, pushes forward into the future. This effect creates mass.</p><p>Gravity is the consequence of a reduction in the resistance of the future &#040;un-collapsed probability fields&#041; as the presence of larger and closer clusters of matter &#040;the past&#041; distort space &#040;un-collapsed probability fields, the future&#041;.</p><p>The mass of an atom is greater than the mass of its component sub-atomic particles because of the effect of the uncollapsed space/probability waves accompanying the collapsed sub-particles, all of them imbued with the energy created at the time of the collapse of the sub-particles.</p><p>The mass of a photon &#040;combined mass at rest and virtual mass caused by its motion&#041;, is less than that of a quark, because a quark is composed of sub-quark collapsed space as well as un-collapsed space, whereas a photon is only un-collapsed space, imbued with energy by the collapse of nearby space/probability fields.</p><p>Since time is not localized, separate particles, if paired in time, can transmit information between them instantaneously.</p><p>Dark matter is thus fully collapsed space, with no longer any imbued energy or accompanying space/probability waves, and thus no collapsing waves, and thus no energy creation, and thus no pushing of un-collapsed space, and thus no light.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45764">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T08:32+00:00">2012-07-04 08:32 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45764" class="report">Report this comment</a> | <a href="#comment-45764" class="comment-id">#45764</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">ammar sakaji</span></cite> said:</dt>
+								<dd><p>AppreciatedÂ&#xa0;CERN, 50 years waiting for the experimentalÂ&#xa0;evidences!!!Â&#xa0;</p><p>I strongly nominate Peter Higgs for theÂ&#xa0;NobelÂ&#xa0;prize in physics 2012,Â&#xa0;aloneÂ&#xa0;or with Yoichiro Nambu.<br/>Yours,<br/>Ammar Sakaji</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45765">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T08:33+00:00">2012-07-04 08:33 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45765" class="report">Report this comment</a> | <a href="#comment-45765" class="comment-id">#45765</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">ammar sakaji</span></cite> said:</dt>
+								<dd><p>AppreciatedÂ&#xa0;CERN, 50 years waiting for the experimentalÂ&#xa0;evidences!!!Â&#xa0;</p><p>I strongly nominate Peter Higgs for theÂ&#xa0;NobelÂ&#xa0;prize in physics 2012,Â&#xa0;aloneÂ&#xa0;or with Yoichiro Nambu.<br/>Yours,<br/>Ammar Sakaji</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45767">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T09:00+00:00">2012-07-04 09:00 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45767" class="report">Report this comment</a> | <a href="#comment-45767" class="comment-id">#45767</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">James Dwyer</span></cite> said:</dt>
+								<dd>Alejandro Rivas-Micoud &#8211; I read your comments with great interest, collapsed vacuum energy, persistent localized spacetime and all, until I got to the explanation of dark matter.  IMO dark matter is primarily a proxy element compensating for improper or incomplete analyses of observations.  Please see <a href="http://sciencewithoutfiction.com/uploads/JDwyer.PDF">On not being the first to discover no galactic dark matter</a> for more info.</dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45770">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T10:19+00:00">2012-07-04 10:19 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45770" class="report">Report this comment</a> | <a href="#comment-45770" class="comment-id">#45770</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Vladimir Leonov</span></cite> said:</dt>
+								<dd><p>I&#039;ll be surprised if today is July 4, 2012 announced the discovery of the Higgs boson. This will be the biggest fraud in the history of science.</p><p>I explain my position. In collisions of protons in colliding beams gives rise to a number of short-lived particles with different masses. They will try to announce that the discovered particle with mass equal to the mass of the Higgs boson. However, the proof that it is the Higgs boson will not be presented.</p><p>Illogic of the experiment at the LHC lies in the fact that the presence of the mass of the particle is not a short-lived situation. Massa is a stable and long-term state of a particle. The mass defect is associated with the emission of a photon but not emission of the Higgs boson. Thus, the Higgs boson has no relation to the process of forming the mass of the particle. </p><p>Higgs boson is contrary to Einstein&#039;s theory when the mass is formed as a result of the curvature of space-time.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45807">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T12:07+00:00">2012-07-04 12:07 PM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45807" class="report">Report this comment</a> | <a href="#comment-45807" class="comment-id">#45807</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Jack Butler</span></cite> said:</dt>
+								<dd><p>I&#039;m not entirely ignorant about physics, but the Higgs calculations are beyond me.  I have a few questions about which may be too simple to respect, but I hope someone can give me answers.  1&#041; How, if the Higgs is itself so massive, can it bestow mass on particles much smaller, like the electron?  2&#041; If, as relativity implies, the Higgs mass transaction is limited to the speed of light, could there not, when a gamma ray splits into a positron and an electron, be a distinct interval in which both particles are massless?  and 3&#041;, If it should prove possible to "screen" or "shield" matter from Higgs bosons, wouldn&#039;t that in practical fact be antigravity?yst</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45812">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T12:16+00:00">2012-07-04 12:16 PM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45812" class="report">Report this comment</a> | <a href="#comment-45812" class="comment-id">#45812</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Jack Butler</span></cite> said:</dt>
+								<dd><p>A question for James Dwyer:  If, as relativity treats the matter, gravity is the curved space-time created by mass, would we not perceive space-time that is curved in the absence of mass as gravitational, thereby inferring a mass which does not exist?  I confess that I do not know why or how space-time could be curved in the absence of mass.  But what if it could be?</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45813">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T12:21+00:00">2012-07-04 12:21 PM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45813" class="report">Report this comment</a> | <a href="#comment-45813" class="comment-id">#45813</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Jack Butler</span></cite> said:</dt>
+								<dd><p>Speaking in reference to Juan Klopper&#039;s eloquent defense of theoretical science:  I agree.  It is, I feel, a mistake to posit curiosity as opposed to kindness.  In fact, I suspect the correlation runs in the other direction.  And responding to Chuck Finley:  I can pilot an automobile across the country, but I have not yet been able to avoid occasionally closing the automobile&#039;s door on my fingers.  These are two different phenomena.  The one is a triumph of intention.  The other is an unavoidable consequence of sensitive dependence on initial conditions.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45817">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T12:55+00:00">2012-07-04 12:55 PM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45817" class="report">Report this comment</a> | <a href="#comment-45817" class="comment-id">#45817</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">sitaram bhadriraju</span></cite> said:</dt>
+								<dd><p>Next year Nobel Prize should include the original great scientist Satyen Bose on whose honor the "Boson" particle is named after.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45827">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T01:21+00:00">2012-07-04 01:21 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45827" class="report">Report this comment</a> | <a href="#comment-45827" class="comment-id">#45827</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Abhas Mitra</span></cite> said:</dt>
+								<dd><p>This has reference to the actual nature of the boson &#040;elementary particle&#041; having a mass of ~125 GeV whose discovery has been announced today. But my naive question is, if Higgs boson is necessary to explain the ``mass&#039;&#039; of all the elementary particles, then WHAT GENERATES THE MASS OF THE Higgs boson? Based on this basic query, my naive guess is that ``Standard Model&#039;&#039; which does not incorporate gravity &#040;and self-interaction of various fields&#041; is incomplete, which is a polite way of telling that it is erroneous by predicting ZERO mass of all elementary particles. And it tries to overcome this incompleteness by hypothesizing this mysterious Higgs Field. On the other hand, following the idea of Arnowitt, Deser & Misner &#040;ADM&#041; formulation of Gravitation, the gravitational mass of an elementary particle could be the net mass energy of various underlying interactions, including gravitation. Gravitational interaction is negative, other self-energies could be negative too. In this framework, in my guess, photon has zero mass because its self-energies exactly cancel its bare electromagnetic mass. On the other hand, a proton has a finite mass because its self-gravitation cannot cancel the bare strong interaction mass...and so on. From this view point, there might be no mysteious ``Higgs boson&#039;&#039; which can magically attribute ``mass&#039;&#039;. Thus the 125 GeV boson detected could be something else!!!! Don&#039;t hang me for my naivete.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45831">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T01:26+00:00">2012-07-04 01:26 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45831" class="report">Report this comment</a> | <a href="#comment-45831" class="comment-id">#45831</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Abhas Mitra</span></cite> said:</dt>
+								<dd><p>This has reference to the actual nature of the boson &#040;elementary particle&#041; having a mass of ~125 GeV whose discovery has been announced today. But my naive question is, if Higgs boson is necessary to explain the ``mass&#039;&#039; of all the elementary particles, then WHAT GENERATES THE MASS OF THE Higgs boson? Based on this basic query, my naive guess is that ``Standard Model&#039;&#039; which does not incorporate gravity &#040;and self-interaction of various fields&#041; is incomplete, which is a polite way of telling that it is erroneous by predicting ZERO mass of all elementary particles. And it tries to overcome this incompleteness by hypothesizing this mysterious Higgs Field. On the other hand, following the idea of Arnowitt, Deser & Misner &#040;ADM&#041; formulation of Gravitation, the gravitational mass of an elementary particle could be the net mass energy of various underlying interactions, including gravitation. Gravitational interaction is negative, other self-energies could be negative too. In this framework, in my guess, photon has zero mass because its self-energies exactly cancel its bare electromagnetic mass.On the other hand, a proton has a finite mass because its self-gravitation cannot cancel its bare strong interaction mass...and so on. Similarly a neutrino may have a finite mass because again its self-interaction as well as self-gravitation cannot nullify its bare mass generated by electro-weak interactions. But ``Standard Model&#039;&#039; cannot deal with such negative self-interactions. From this view point, there might be no mysteious ``Higgs boson&#039;&#039; which can magically attribute ``mass&#039;&#039;. Thus the 125 GeV boson detected could be something else!!!! Don&#039;t hang me for my naivete.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45840">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T03:31+00:00">2012-07-04 03:31 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45840" class="report">Report this comment</a> | <a href="#comment-45840" class="comment-id">#45840</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Alejandro Rivas-Micoud</span></cite> said:</dt>
+								<dd><p>James Dwyer &#8211; Thanks James, very interesting article...</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45844">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T04:18+00:00">2012-07-04 04:18 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45844" class="report">Report this comment</a> | <a href="#comment-45844" class="comment-id">#45844</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Jon Thaler</span></cite> said:</dt>
+								<dd><p>Ed Morgan: This is a good question.  The observed particle &#040;the Higgs boson&#041; is the excitation of a field &#040;the Higgs field&#041; that fills all of space and gives particles their mass.  The theory predicts that all fields must have excitations, so the search for the Higgs boson is a test of the theory.  If there is no Higgs boson, the theory is wrong.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45845">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T04:27+00:00">2012-07-04 04:27 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45845" class="report">Report this comment</a> | <a href="#comment-45845" class="comment-id">#45845</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Jon Thaler</span></cite> said:</dt>
+								<dd><p>I should have given an example from more "everyday" life.  A static electric &#040;or magnetic field&#041; can fill space.  That field can also have excitations, which move around like particles.  These excitations are called "photons".</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45875">
+						<article>
+															<p class="datetime"><time datetime="2012-07-04T05:36+00:00">2012-07-04 05:36 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45875" class="report">Report this comment</a> | <a href="#comment-45875" class="comment-id">#45875</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">James Dwyer</span></cite> said:</dt>
+								<dd>In reply to Jack Butler&#039;s questions directed to me regarding curved spacetime in the absence of mass &#8211; I&#039;m no authority on the matter, but briefly...
+As I understand, most astrophysicists would attribute apparent gravitational effects that exceed the effects expected, based on their estimations of local mass &#040;I think typically based on luminosity&#041; to the presence of the undetectable dark matter.  I would then expect that if astronomers observed some effects associated with gravitation in the absence of any detectable matter that they would similarly attribute those effects to the presence of dark matter.<p>However, as I understand, the reported occurrences of gravitational effects having been identified in the complete absence of ordinary, detectable matter can be counted on the fingers of one hand.  I also think this may be telling, since if the presence of ordinary matter is required for dark matter to be inferred, it might be suspected that the problem lies in the procedures used to evaluate the observed gravitational effects and/or estimate the mass of ordinary matter present.  IMO &#8211; that is the source of the problem.</p><p>As best I can understand, general relativity &#040;GR&#041; <em>describes the effects of gravitation</em> produced by objects of mass in terms of the collapse of abstract dimensional coordinates of external spacetime.  However, I don&#039;t think that GR describes any physical mechanism or process that actually produces the localized collapse or &#039;curvature&#039; of spacetime.  While GR is extremely correct in its predictions, IMO the physical processes involved must be presumed missing.</p><p>While experts in GR seem to insist that there is no force involved, I think this is an unphysical conception.  In my own personal conception of physical gravitation, the aggregated potential energy of mass collapses and redirects some kinetic energy of external spacetime &#8211; towards a local collective center of mass...</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45938">
+						<article>
+															<p class="datetime"><time datetime="2012-07-05T07:24+00:00">2012-07-05 07:24 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45938" class="report">Report this comment</a> | <a href="#comment-45938" class="comment-id">#45938</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">brown paul</span></cite> said:</dt>
+								<dd><p><a href="http://www.hp-coupon-code.net/">I</a> guess the next step for the collider community is to consider the MJJ spectra from the other experiments, D0, CMS and ATLAS. I am a little surprised that there is no concurrent statement from D0, since there used to be a courtesy agreement between the two collaborations concerning discoveries.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45972">
+						<article>
+															<p class="datetime"><time datetime="2012-07-05T04:25+00:00">2012-07-05 04:25 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45972" class="report">Report this comment</a> | <a href="#comment-45972" class="comment-id">#45972</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">James Dwyer</span></cite> said:</dt>
+								<dd><p>Jon Thaler &#8211; good response to Ed Morgan&#039;s good question.  I add some speculation regarding somewhat related questions from Jack Butler &#040;"How, if the Higgs is itself so massive, can it bestow mass on particles much smaller, like the electron?"&#041; and Abhas Mitra.</p><p>As you said, Jon, it is the Higgs field that actually imparts matter to particles.  I&#039;ve heard this explained as a field that always permeates space, apparently dynamically and continuously imparting specific masses to selected particles.  The particle selection function is crucial, since not all particles equally acquire mass.  This process is sometimes envisioned to act somewhat like a filter, allowing some particles to pass through the Higgs field and acquire mass, but there is no such process described by the theory.</p><p>I have a simple suggestion.  Rather than continuously imparting mass to some particles via some selection process, since more massive particles were generally created earlier in the development of the universe when universal energy density was greatest it would be most natural for the temporally varying universal energy density to perform the particle selection function.  Particles condensed from energy in the exceedingly dense early universe would be emitted into an environment that would prevent linear propagation.  Their propagation energy, prevented from producing linear motion, might have been reconfigured as an encapsulating inwardly directed, potential energy field of mass.</p><p>In this scenario, the &#039;Higgs field&#039; is the initially extreme &#039;vacuum energy&#039; density, which determines &#040;through a more complex process than can currently be described&#041; how much kinetic linear self-propagation energy is reconfigured as the self-opposed potential energy of mass.  As the energy density of the rapidly expanding and cooling universe diminishes, the amount of potential energy configured to newly condensed particles also generally diminishes, producing new generations of particles with distinct properties, such as electrons.</p><p>Eventually the &#039;higgs field&#039; becomes so disperse that linear self-propagation is no longer inhibited and only new particles with zero rest mass &#040;photons&#041; are generally emitted.  Other processes such as fission, fusion and nuclear decay can produce new particles with mass from preexisting particles of mass.</p><p>This speculative enhanced &#039;Higgs&#039; mechanism explains how persistent particles of mass were created in the earlier developing universe, and most importantly generally explains quite naturally how and why particles were &#039;selected&#039; to acquire varying amounts of mass &#8211; which has not been explained by existing theory.</p><p>As I understand, this scenario is in many ways inconsistent with current interpretations.  I have not attempted to explain here how disintegration of persistent particles in accelerator experiments produces highly unstable particle residue from what had been highly stable force fields.  I will suggest though that even unstable particles persist for extended periods when acted upon by relativistic forces that locally constrain time, such as high velocity unstable decay products created by cosmic rays in the atmosphere that persist longer than expected to reach the Earth.  Like gravitation, mass may increase bound particle persistence...</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-45976">
+						<article>
+															<p class="datetime"><time datetime="2012-07-05T10:15+00:00">2012-07-05 10:15 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=45976" class="report">Report this comment</a> | <a href="#comment-45976" class="comment-id">#45976</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Andrew Stump</span></cite> said:</dt>
+								<dd><p>Abhas Mitra &#8211; The thing that gives the Higgs mass is... the Higgs itself! The Higgs gives things mass by interacting with them, so in order to give itself mass, it has to interact with itself. This is one of the reasons we don&#039;t yet know if this is for sure the Higgs. It&#039;s going to be more difficult to produce more Higgses so that we can measure its interaction with itself. This is one of the arguments for a future linear collider that would collide electrons and postirons that would allow us to measure these things with more precision.</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-46033">
+						<article>
+															<p class="datetime"><time datetime="2012-07-06T11:39+00:00">2012-07-06 11:39 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=46033" class="report">Report this comment</a> | <a href="#comment-46033" class="comment-id">#46033</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Dan Thompson</span></cite> said:</dt>
+								<dd><p>Off the wall.  The initial event, bang or otherwise, crystallized what there was into points of compressed space surrounded by stretched space the latter pulling any two of the former towards each other...attraction, aka: gravity, aka: boson, Higgs field or otherwise.  The compressed bits would be the source of mass, attraction and all accumulation configurations.  Some would orbit a nucleus in a frequency in the light spectrum and we would see it.  Others would not move in a regular frequency so we would not see it but it would still attract...dark matter?  The area between mass would not be an empty vacuum of nothingness but, rather, a near infinitely flexible, frictionless energy that is the conduit for carrying the information o motion from one thing to another.  Etc. </p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-46108">
+						<article>
+															<p class="datetime"><time datetime="2012-07-07T06:58+00:00">2012-07-07 06:58 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=46108" class="report">Report this comment</a> | <a href="#comment-46108" class="comment-id">#46108</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Vinod Sehgal</span></cite> said:</dt>
+								<dd>To Alejendro Rivas Micoud<p>These collapses occur in the present, and produce matter &#040;the past, collapsed space-probability outcomes&#041; and energy. The future is simply un-collapsed space-probability outcomes</p><p>1.0 The past, collapsed space-probability field produce matter and energy. How do you distinguish between matter and energy  in the past collapse i.e. at the very moment of production.  Subsequently, matter imbued with energy pushes into future which creates mass. What is the difference in matter with mass and matter imbued with energy without mass. In other words, my question is :</p>What is the difference between :<p>i&#041; Matter at the time of production without mass &#040;past collapse&#041;<br/>ii&#041; Energy at the time of collapse &#040; past collapse&#041;<br/>iii&#041;  Matter with mass &#040; pushing of matter imbued with energy in future&#041;</p><p>2.0 What is the origin and source of un-collapsed  space probability field ?  What makes the space field to collapse?</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-46534">
+						<article>
+															<p class="datetime"><time datetime="2012-07-15T08:26+00:00">2012-07-15 08:26 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=46534" class="report">Report this comment</a> | <a href="#comment-46534" class="comment-id">#46534</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">James Dwyer</span></cite> said:</dt>
+								<dd><p>Vinod Sehgal &#8211; I&#039;m no physicist, but I have a thought regarding your question, "<em>What makes the space field to collapse?</em>"</p><p>If the initial universe is comprised of some hot, dense energy that is expanding, expansion may produce quantum voids, or &#039;bubbles&#039; - a &#039;quantum foam&#039;.  Each of the bubbles represents a quantum region of reduced density and temperature &#040;as a result of expansion&#041;.  Into each bubble some small amount of external higher density energy might be emitted or &#039;leaked&#039;, producing a bit of condensed quantum matter...</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-47314">
+						<article>
+															<p class="datetime"><time datetime="2012-07-30T02:49+00:00">2012-07-30 02:49 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=47314" class="report">Report this comment</a> | <a href="#comment-47314" class="comment-id">#47314</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Amrit Sorli</span></cite> said:</dt>
+								<dd><p>mass has origin in energy density of quantum vacuum, see article: <br/>A. Sorli, â&#x80;&#x9c;Relative velocity of material change into a 3D quantum vacuumâ&#x80;&#x9d;, Journal of Advanced Physics 1, 1-3 &#040;2012&#041;. </p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-49135">
+						<article>
+															<p class="datetime"><time datetime="2012-08-16T09:11+00:00">2012-08-16 09:11 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=49135" class="report">Report this comment</a> | <a href="#comment-49135" class="comment-id">#49135</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">Peter Cary</span></cite> said:</dt>
+								<dd><p>On behalf of Tommy Ohlsson:</p><p><strong>The Higgs particle &#8211; not the final piece of particle physics.</strong></p><p>On July 4, 2012, media around the world were overwhelmed with announcements of the discovery of the so-called Higgs particle by the results from the ATLAS and CMS collaborations at the Large Hadron Collider &#040;LHC&#041; in Geneva, Switzerland &#040;see e.g. <em>Nature</em> http://www.nature.com/news/physicists-declare-victory-in-higgs-hunt-1.10940; 2012&#041;. As reported in Nature &#040;see <em>Nature</em> http://www.nature.com/news/physicists-find-new-particle-but-is-it-the-higgs-1.10932; 2012&#041;, this discovery is indeed the "the final, crucial piece of the standard model of particle physics". According to the standard model, the famous Higgs particle, named after the British theoretical physicist Peter Higgs, is the particle that generates the masses of all particles, and this news has therefore such a high impact for basic science.</p><p>Nevertheless, it is extremely important to make clear to the public that this is not the final piece of particle physics &#8211; only the final piece of the standard model. Scientists must now ensure that the journey beyond the Standard Model continues to find signals of new physics, i.e., they cannot "just savour" the new massive achievement &#040;see <em>Nature</em> 487, 140; 2012&#041; - the work must go on. The Higgs particle is definitely one of the most important findings in this century for particle physics, but not the only goal of the LHC, which also has as aims to find supersymmetry, dark matter, extra spatial dimensions and to further improve measurements previously made by other experiments with less precision. One should also keep in mind that the results on the Higgs particle are still preliminary, and the collaborations at the LHC will continue to collect data on this particle &#040;presumably being the elusive Higgs particle&#041; and its properties to secure without any doubts that the correct particle has been identified &#040;see also <em>Nature</em> 487, 147â&#x80;&#x93;148; 2012&#041;.</p><p>In conclusion, it is of significant importance to clarify to the general audience that particle physics is far away from having made its last discovery. The endeavor of the LHC has just started and will continue to explore new physics beyond the standard model at least until the end of this decade.</p><p>Tommy Ohlsson<br/>KTH Royal Institute of Technology, Stockholm, Sweden.<br/>tohlsson@kth.se</p></dd>
+							</dl>
+						</article>
+					</li>
+									<li class="box" id="comment-50214">
+						<article>
+															<p class="datetime"><time datetime="2012-09-15T03:47+00:00">2012-09-15 03:47 AM</time></p>
+														<p class="moderation"><a href="/news/report?article=1.10932&amp;comment=50214" class="report">Report this comment</a> | <a href="#comment-50214" class="comment-id">#50214</a></p>
+							<dl>
+								<dt><cite class="vcard"><span class="fn">fire log</span></cite> said:</dt>
+								<dd><p><a href="http://dualshine.com">dualshine</a>   If the initial universe is comprised of some hot, dense energy that is expanding, expansion may produce quantum voids, or &#039;bubbles&#039; - a &#039;quantum foam&#039;. Each of the bubbles represents a quantum region of reduced density and temperature &#040;as a result of expansion&#041;. Into each bubble some small amount of external higher density energy might be emitted or &#039;leaked&#039;, producing a bit of condensed quantum matter...</p></dd>
+							</dl>
+						</article>
+					</li>
+								</ol>
+						
+			 				<p>You need to be registered with <i class="journal-title">Nature</i> and agree to our <a href="/info/community-guidelines.html">Community Guidelines</a> to leave a comment. <a href="/foxtrot/svc/login?type=commenting">Please log in or register as a new user</a>. You will be re-directed back to this page.</p>
+							
+		</div>
+	</div>
+</section>
+	
+	</div>
+</article>
+						
+        
+	
+										<section>
+		<div class="carousel news-carousel">
+			<h2 class="section-heading">See other News &amp; Comment articles from <a href="/news"><i>Nature</i></a></h2>
+			<div class="content">
+				<ul class="slides" id="news-carousel-slides">
+																		<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/open-access-deal-for-particle-physics-1.11468">
+											<h4>Open-access deal for particle physics</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6522.1348512457!/image/1.11468_CERN-9600007.jpg_gen/derivatives/box_118/1.11468_CERN-9600007.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/amazon-fire-analysis-hits-new-heights-1.11467">
+											<h4>Amazon fire analysis hits new heights</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6521.1348495775!/image/1.11467.jpg_gen/derivatives/box_118/1.11467.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/custom-gene-editing-rewrites-zebrafish-dna-1.11463">
+											<h4>Custom gene editing rewrites zebrafish DNA</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6507.1348233985!/image/1.11463.jpg_gen/derivatives/box_118/1.11463.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/nih-retires-research-chimps-at-troubled-facility-1.11465">
+											<h4>NIH retires research chimps at troubled facility</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6518.1348488166!/image/chimps.NIRC.April-2011-051-1000.jpg_gen/derivatives/box_118/chimps.NIRC.April-2011-051-1000.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/chilean-scientists-oppose-funding-agency-relocation-1.11464">
+											<h4>Chilean scientists oppose funding-agency relocation</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6512.1348240652!/image/1.11464.jpg_gen/derivatives/box_118/1.11464.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/outcry-over-jailed-russian-chemist-1.11462">
+											<h4>Outcry over jailed Russian chemist</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6511.1348238640!/image/1.11462.jpg_gen/derivatives/box_118/1.11462.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/african-neighbours-divided-by-their-genes-1.11456">
+											<h4>African neighbours divided by their genes</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6501.1348149597!/image/1.11456.jpg_gen/derivatives/box_118/1.11456.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/dawn-spacecraft-finds-signs-of-water-on-vesta-1.11457">
+											<h4>Dawn spacecraft finds signs of water on Vesta</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6504.1348150245!/image/1.11457.jpg_gen/derivatives/box_118/1.11457.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/bacteria-replicate-close-to-the-physical-limit-of-efficiency-1.11446">
+											<h4>Bacteria replicate close to the physical limit of efficiency&nbsp;</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6487.1348067879!/image/1.11446_B2300104E_SPL.jpg_gen/derivatives/box_118/1.11446_B2300104E_SPL.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/how-to-confuse-a-moral-compass-1.11447">
+											<h4>How to confuse a moral compass</h4>
+											
+ 
+
+
+		
+
+
+		
+
+
+
+
+	<img src="/polopoly_fs/7.6489.1348063676!/image/1.11447_Morals_screen-grab_900px.jpg_gen/derivatives/box_118/1.11447_Morals_screen-grab_900px.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/nature/journal/v489/n7416/full/489363a.html">
+											<h4>Astronomy: The United States must rejoin the SKA</h4>
+											
+ 
+
+
+		
+
+
+			
+
+
+
+
+	<img src="/polopoly_fs/7.6496.1348075411!/image/Dishes_big.jpg_gen/derivatives/box_118/Dishes_big.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/nature/journal/v489/n7416/full/489359a.html">
+											<h4>Agriculture: Plant perennials to save Africa's soils</h4>
+											
+ 
+
+
+		
+
+
+			
+
+
+
+
+	<img src="/polopoly_fs/7.6495.1348075343!/image/Soil-Pit.jpg_gen/derivatives/box_118/Soil-Pit.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/lab-animal-flights-squeezed-1.11433">
+											<h4>Lab-animal flights squeezed</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6429.1347978135!/image/1.11433_PETA.jpg_gen/derivatives/box_118/1.11433_PETA.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/retraction-record-rocks-community-1.11434">
+											<h4>Retraction record rocks community</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6426.1347979738!/image/1.11434_CORBIS_42-21101154.jpg_gen/derivatives/box_118/1.11434_CORBIS_42-21101154.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/out-of-disorder-comes-electricity-1.11445">
+											<h4>Out of disorder comes electricity</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6484.1348063760!/image/1.11445_MMRTGonMars1%2Barrow.jpeg_gen/derivatives/box_118/1.11445_MMRTGonMars1%2Barrow.jpeg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/neuroscience-idle-minds-1.11440">
+											<h4>Neuroscience: Idle minds</h4>
+											
+ 
+
+
+		
+
+
+			
+
+
+
+
+	<img src="/polopoly_fs/7.6410.1347961587!/image/relaxingbrainmain.jpg_gen/derivatives/box_118/relaxingbrainmain.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/forest-fires-burn-out-1.11424">
+											<h4>Forest fires: Burn out</h4>
+											
+ 
+
+
+		
+
+
+			
+
+
+
+
+	<img src="/polopoly_fs/7.6428.1347961801!/image/Fire-1.jpg_gen/derivatives/box_118/Fire-1.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/seven-days-14-20-september-2012-1.11432">
+											<h4>Seven days: 14–20 September 2012</h4>
+											
+ 
+
+
+		
+
+
+			
+
+
+
+
+	<img src="/polopoly_fs/7.6467.1347981755!/image/7-Monkey.jpg_gen/derivatives/box_118/7-Monkey.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/social-networks-can-spread-the-olympic-effect-1.11430">
+											<h4>Social networks can spread the Olympic effect</h4>
+											
+ 
+
+
+		
+
+
+			
+
+
+
+
+	<img src="/polopoly_fs/7.6461.1347980303!/image/WV.jpg_gen/derivatives/box_118/WV.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+																								<li class="carousel-slide">
+								<article>
+									<div class="teaser">
+										<a href="http://www.nature.com/news/uk-technology-boost-plan-disappoints-1.11435">
+											<h4>UK technology-boost plan disappoints</h4>
+											
+ 
+
+
+		
+
+
+				
+
+
+
+
+	<img src="/polopoly_fs/7.6430.1347975547!/image/1.11435_PHOTOSHOT.jpg_gen/derivatives/box_118/1.11435_PHOTOSHOT.jpg" alt=""/>
+
+										</a>
+									</div>
+								</article>
+							</li>
+															</ul>
+			</div>
+		</div>
+	</section>
+			
+      										
+																													</div>
+								<div id="extranav" class="col">
+											
+        
+	
+									
+
+
+<nav>
+	<h2 class="hidden">Journal navigation</h2>
+	<div class="journal-nav cleared">
+		<ul>
+					<li class="home odd"><a href="/nature">Journal home</a></li>
+					<li class="subscribe even"><a href="https://secure.nature.com/subscribe/nature">Subscribe</a></li>
+					<li class="current odd"><a href="/nature/current_issue">Current issue</a></li>
+					<li class="e-alert even"><a href="/nams/svc/myaccount/save/ealert?list_id=1">E-alert sign up</a></li>
+					<li class="authors odd"><a href="/nature/authors/index.html">For authors</a></li>
+					<li class="rss even"><a href="/nature/newsfeeds.html">RSS feed</a></li>
+				</ul>
+		<a href="/nature/current_issue" class="toc"><img src="http://www.nature.com/nature/journal/v489/n7416/images/cover_nature.jpg" alt="Current issue table of contents" style="width:65px;height:85px" /></a>	</div>
+</nav>																			<section class="social-media-section">
+	<div class="social-media">
+		<h2 class="hidden">Social Media Box - AML</h2>
+		<div class="box">
+			<ul class="cleared items-4" style="margin:0 0 10px;">
+				<li class="email"><a href="http://www.nature.com/news/ealert-intermediate-page.html">E-alert</a></li>				<li class="rss"><a href="http://feeds.nature.com/NatureNewsComment">RSS</a></li>				<li class="facebook"><a href="http://www.facebook.com/NatureNews">Facebook</a></li>									<li class="twitter last">
+						<a href="https://twitter.com/naturenews" class="btn-twitter">Twitter</a>
+					</li>			</ul>
+						<div class="hidden" id="twitter-follow">
+				<a href="#" class="hide-text btn-close">Close</a>
+				<a href="https://twitter.com/naturenews" class="twitter-follow-button" data-show-count="false">Follow @naturenews</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+					</div>
+	</div>
+</section>
+											
+
+
+
+	
+
+
+<div class="ad ad-300x100 ad-3" data-ad-src="//ad.doubleclick.net/adj/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=2;sz=300x100;pos=right;ord=9741172389993168?">
+	<noscript><a href="//ad.doubleclick.net/jump/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=2;sz=300x100;pos=right;ord=9741172389993168?"><img src="//ad.doubleclick.net/ad/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=2;sz=300x100;pos=right;ord=9741172389993168?" alt="Advertisment"/></a></noscript>
+</div>
+											
+	
+				
+		
+				<section>
+			<div id="top-content-article-page-tabbed-box" class="tabbed-box">
+				<h2 class="hidden">Top Content - Article Page</h2>
+		
+				<div class="tabs">
+									<div id="top-content-article-page-tabbed-box-1" class="tab active">
+						<h2 id="top-content-article-page-tabbed-box-tab-1" class="tab-label"><span>Recent</span></h2>
+						<div id="top-content-article-page-tabbed-box-pane-1" class="tab-pane">
+							<div class="tab-content fade-out"><ol class="article-feed">
+	<li>
+		<article>
+						
+			<h2><a href="http://www.nature.com/news/open-access-deal-for-particle-physics-1.11468">Open-access deal for particle physics</a></h2>
+			<p><span class="journal-title">Nature</span> 
+				<time pubdate="pubdate" datetime="2012-09-24"><span class="time">24 September 2012</span></time>
+				
+							</p>
+		</article>
+	</li>
+	<li>
+		<article>
+						
+			<h2><a href="http://www.nature.com/news/amazon-fire-analysis-hits-new-heights-1.11467">Amazon fire analysis hits new heights</a></h2>
+			<p><span class="journal-title">Nature</span> 
+				<time pubdate="pubdate" datetime="2012-09-24"><span class="time">24 September 2012</span></time>
+				
+							</p>
+		</article>
+	</li>
+	<li>
+		<article>
+						
+			<h2><a href="http://www.nature.com/news/custom-gene-editing-rewrites-zebrafish-dna-1.11463">Custom gene editing rewrites zebrafish DNA</a></h2>
+			<p><span class="journal-title">Nature</span> 
+				<time pubdate="pubdate" datetime="2012-09-23"><span class="time">23 September 2012</span></time>
+				
+							</p>
+		</article>
+	</li>
+	<li>
+		<article>
+						
+			<h2><a href="http://www.nature.com/news/nih-retires-research-chimps-at-troubled-facility-1.11465">NIH retires research chimps at troubled facility</a></h2>
+			<p><span class="journal-title">Nature</span> 
+				<time pubdate="pubdate" datetime="2012-09-21"><span class="time">21 September 2012</span></time>
+				
+							</p>
+		</article>
+	</li>
+	<li>
+		<article>
+						
+			<h2><a href="http://www.nature.com/news/chilean-scientists-oppose-funding-agency-relocation-1.11464">Chilean scientists oppose funding-agency relocation</a></h2>
+			<p><span class="journal-title">Nature</span> 
+				<time pubdate="pubdate" datetime="2012-09-21"><span class="time">21 September 2012</span></time>
+				
+							</p>
+		</article>
+	</li>
+</ol></div>
+													</div>
+					</div>
+									<div id="top-content-article-page-tabbed-box-2" class="tab">
+						<h2 id="top-content-article-page-tabbed-box-tab-2" class="tab-label"><span>Read</span></h2>
+						<div id="top-content-article-page-tabbed-box-pane-2" class="tab-pane">
+							<div class="tab-content fade-out">
+	
+
+
+			<ol class="article-feed" start="1">
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11447">How to confuse a moral compass</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-19" pubdate><span class="time">19 Sep 2012</span></time></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11378">Proof claimed for deep connection between primes</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-10" pubdate><span class="time">10 Sep 2012</span></time></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11445">Out of disorder comes electricity</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-19" pubdate><span class="time">19 Sep 2012</span></time></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11379">Cell structure gives African fruit its iridescent hue</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-10" pubdate><span class="time">10 Sep 2012</span></time></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11462">Outcry over jailed Russian chemist</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-21" pubdate><span class="time">21 Sep 2012</span></time></p>
+				</article>
+			</li>
+				</ol>
+	</div>
+							<div class="tab-footer fade-out"><a href="http://www.nature.com/news/top-content-article-page-7.799?article=1.10932&amp;tab=7.801" class="right-arrow">View all</a></div>						</div>
+					</div>
+									<div id="top-content-article-page-tabbed-box-3" class="tab">
+						<h2 id="top-content-article-page-tabbed-box-tab-3" class="tab-label"><span>Commented</span></h2>
+						<div id="top-content-article-page-tabbed-box-pane-3" class="tab-pane">
+							<div class="tab-content fade-out">
+	
+
+
+			<ol class="article-feed" start="1">
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/488568a">Doctors back circumcision</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-08-28" pubdate><span class="time">28 Aug 2012</span></time> <span><a href="http://www.nature.com/uidfinder/10.1038/488568a#comments">20 comments</a></span></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/489335b">Extreme weather</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-19" pubdate><span class="time">19 Sep 2012</span></time> <span><a href="http://www.nature.com/uidfinder/10.1038/489335b#comments">13 comments</a></span></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/489046a">ENCODE: The human encyclopaedia</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-05" pubdate><span class="time">05 Sep 2012</span></time> <span><a href="http://www.nature.com/uidfinder/10.1038/489046a#comments">10 comments</a></span></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11378">Proof claimed for deep connection between primes</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-10" pubdate><span class="time">10 Sep 2012</span></time> <span><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11378#comments">9 comments</a></span></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/488572a">After the Higgs: The new particle landscape</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-08-29" pubdate><span class="time">29 Aug 2012</span></time> <span><a href="http://www.nature.com/uidfinder/10.1038/488572a#comments">9 comments</a></span></p>
+				</article>
+			</li>
+				</ol>
+	</div>
+							<div class="tab-footer fade-out"><a href="http://www.nature.com/news/top-content-article-page-7.799?article=1.10932&amp;tab=7.803" class="right-arrow">View all</a></div>						</div>
+					</div>
+									<div id="top-content-article-page-tabbed-box-4" class="tab">
+						<h2 id="top-content-article-page-tabbed-box-tab-4" class="tab-label"><span>Emailed</span></h2>
+						<div id="top-content-article-page-tabbed-box-pane-4" class="tab-pane">
+							<div class="tab-content fade-out">
+	
+
+
+			<ol class="article-feed" start="1">
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11378">Proof claimed for deep connection between primes</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-10" pubdate><span class="time">10 Sep 2012</span></time></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11418">Job swapping makes its mark on honeybee DNA</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-16" pubdate><span class="time">16 Sep 2012</span></time></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/489204a">Science fiction: The radium age</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-12" pubdate><span class="time">12 Sep 2012</span></time></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/nature.2012.11355">Obama and Romney tackle 14 top science questions</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-05" pubdate><span class="time">05 Sep 2012</span></time></p>
+				</article>
+			</li>
+					<li>
+				<article>
+					<h3><a href="http://www.nature.com/uidfinder/10.1038/489179a">Predatory publishers are corrupting open access</a></h3>
+																									
+					<p><span class="journal-title">Nature</span> <time datetime="2012-09-12" pubdate><span class="time">12 Sep 2012</span></time></p>
+				</article>
+			</li>
+				</ol>
+	</div>
+							<div class="tab-footer fade-out"><a href="http://www.nature.com/news/top-content-article-page-7.799?article=1.10932&amp;tab=7.802" class="right-arrow">View all</a></div>						</div>
+					</div>
+								</div>
+			</div>
+		</section>
+	
+												
+
+
+
+	
+
+
+<div class="ad ad-300x250 ad-5" data-ad-src="//ad.doubleclick.net/adj/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=3;sz=300x250;pos=right;ord=6360987543552936?">
+	<noscript><a href="//ad.doubleclick.net/jump/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=3;sz=300x250;pos=right;ord=6360987543552936?"><img src="//ad.doubleclick.net/ad/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=3;sz=300x250;pos=right;ord=6360987543552936?" alt="Advertisment"/></a></noscript>
+</div>
+																						
+
+
+
+	
+
+
+<div class="ad ad-160x600 ad-7" data-ad-src="//ad.doubleclick.net/adj/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=4;sz=160x600;pos=right;ord=9215812229028618?">
+	<noscript><a href="//ad.doubleclick.net/jump/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=4;sz=160x600;pos=right;ord=9215812229028618?"><img src="//ad.doubleclick.net/ad/newsnature.com/article;abr=!webtv;artid=nature.2012.10932;ptile=4;sz=160x600;pos=right;ord=9215812229028618?" alt="Advertisment"/></a></noscript>
+</div>
+											
+	<section>
+		<div class="box posting-box fade-out">
+			<h2>Science jobs from <span class="nature">nature</span><span class="hidden"> </span><span class="site-name">jobs</span></h2>
+			<ul>
+									
+					<li>
+						<h3><a href="http://www.nature.com/naturejobs/science/jobs/280537-Tenure-Track-Assistant-Professor">Tenure Track Assistant Professor </a></h3>
+						<p>University of California, Davis</p>
+					</li>
+									
+					<li>
+						<h3><a href="http://www.nature.com/naturejobs/science/jobs/283817-Scientist-Position">Scientist Position (M / F)</a></h3>
+						<p>Leibniz-Institut für Analytische Wissenschaften - ISAS - e.V.</p>
+					</li>
+									
+					<li>
+						<h3><a href="http://www.nature.com/naturejobs/science/jobs/281774-Assistant-Professor-in-Fish-Ecology">Assistant Professor in Fish Ecology</a></h3>
+						<p>UAF School of Fisheries and Ocean Sciences</p>
+					</li>
+									
+					<li>
+						<h3><a href="http://www.nature.com/naturejobs/science/jobs/277035-Lecturer-Senior-Lecturer-Reader-in-Marine-Biology">Lecturer / Senior Lecturer / Reader in Marine Biology</a></h3>
+						<p>National Oceanography Centre Southampton</p>
+					</li>
+									
+					<li>
+						<h3><a href="http://www.nature.com/naturejobs/science/jobs/280111-Max-Planck-Research-Group-Leader-W2-in-Biology-of-Ageing">Max Planck Research Group Leader (W2) in Biology of Ageing</a></h3>
+						<p>Max Planck Institute for Biology of Ageing Cologne/Germany</p>
+					</li>
+							</ul>
+																																																																	<ul class="box-footer fade-out cleared"><li class="right-arrow first"><a href="http://www.nature.com/naturejobs/science/orders/new">Post a Free Job</a></li><li class="right-arrow"><a href="http://www.nature.com/naturejobs/science/jobs">More Science Jobs</a></li></ul>
+									</div>
+	</section>
+														
+      									</div>
+							</div>
+			
+			<div id="constrain-footer" class="cleared">
+				
+        
+	
+									<footer>
+
+	<ul id="journal-meta" class="cleared">
+		<li class="journal-title">Nature</li>
+		<li class="issn"><abbr title="International Standard Serial Number">ISSN</abbr><span class="hidden">:</span> 0028-0836</li>
+		<li class="eissn"><abbr title="Electronic International Standard Serial Number">EISSN</abbr><span class="hidden">:</span> 1476-4687</li>
+	</ul>
+
+	<div id="footer">
+
+		<ul class="footer-links first">
+			<li><a href="/npg">About <abbr title="Nature Publishing Group">NPG</abbr></a></li>
+			<li><a href="/npg_/contact">Contact <abbr title="Nature Publishing Group">NPG</abbr></a></li>
+			<li><a href="/info/accessibility_statement.html">Accessibility statement</a></li>
+			<li><a href="/help">Help</a></li>
+		</ul>
+		<ul class="footer-links">
+			<li><a href="/info/privacy.html">Privacy policy</a></li>
+			<li><a href="/info/cookies.html">Use of cookies</a></li>
+			<li><a href="/info/legal_notice.html">Legal notice</a></li>
+			<li><a href="/info/tandc.html">Terms</a></li>
+		</ul>
+		<ul class="footer-links">
+			<li><a href="/naturejobs">Nature<span class="hidden"> </span>jobs</a></li>
+			<li><a href="http://www.natureasia.com">Nature Asia</a></li>
+			<li><a href="/scitable">Nature Education</a></li>
+			<li><a href="/webfeeds">RSS web feeds</a></li>
+		</ul>
+		<ul class="footer-links last">
+			<li><a href="/nature/about/index.html">About <strong>Nature</strong></a></li>
+			<li><a href="/nature/about/contact/index.html">Contact <strong>Nature</strong></a></li>
+			<li><a href="/nature/about/editors/index.html">About the Editors</a></li>
+			<li><a href="/nature/awards/index.html"><strong>Nature</strong> awards</a></li>
+		</ul>
+	
+					
+
+<form method="get" action="/search/executeSearch" id="footer-search" class="search-form" role="search">
+	<fieldset>
+		<label for="footer-keyword">Search</label>
+		<input type="hidden" name="include-collections" value="journals_nature,crawled_content">
+		<input type="hidden" name="exclude-collections" value="journals_palgrave,lab_animal">
+		<input type="hidden" name="sp-c" value="25">
+		<input type="hidden" name="sp-s" value="date_descending">
+				<input type="search" id="footer-keyword" name="sp-q" placeholder="Search" value="" class="txt" maxlength="200">
+		<button type="submit" id="footer-search-submit">Go</button>
+
+			</fieldset>
+</form>						
+		<p class="copyright">
+			<small><a href="/info/copyright_statement.html">&#169; 2012 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.</a></small>
+			<small>partner of <a href="/info/partners.html">AGORA, HINARI, OARE, INASP, CrossRef and COUNTER</a></small>
+		</p>
+	
+	</div>
+</footer>			
+      			</div>
+		</div>
+		
+	</div>
+		<div id="mob-ss"></div>
+	<div id="mob-ms"></div>
+	
+	<script src="/super/scripts/webtrends/webtrends.js"> </script>
+	<script>if (typeof WebTrends !== 'undefined') {var _tag=new WebTrends();_tag.dcsGetId();}</script>
+	
+			<script src="/polopoly_static/js/nature/news/compiled/f7s0qmx.js"> </script>		
+			
+		
+</body>
+</html>
